@@ -27,12 +27,12 @@ Origine : [Fifty Shades of White (Junior)](https://hackropole.fr/fr/challenges/r
 > http://localhost
 
 #### tentez 
-> nc fifty-shades-of-white.cyrhades.fr:4000
+> nc fifty-shades-of-white.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 -----------
 
